@@ -1,0 +1,19 @@
+{
+  "name": "shofi-rewrite",
+  "version": "1.0.0",
+  "description": "yea this is what it sounds like",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx electron ."
+  },
+  "keywords": [
+    "rofi, wofi, ripoffrofi, knockoffrofi"
+  ],
+  "author": "simpansoftware",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "electron": "^34.2.0"
+  },
+  "devDependencies": {}
+}

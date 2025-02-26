@@ -1,0 +1,42 @@
+body {
+    color: white;
+    border-radius: 25px;
+    overflow: hidden;
+    font-family: "Inter", serif;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.outerrectangle {
+    height: 90px;
+    width: 260px;
+    margin: auto;
+    padding: 25px;
+    border: 25px solid indianred;
+    border-radius: 10px;
+}
+
+.innerrectangle {
+    height: auto;
+    width: auto;
+    z-index: -999;
+    background-color: lightslategray;
+}
+
+input {
+    font-family: "Inter", serif; 
+    border-radius: 5px;
+    border: rgb(180, 179, 179) solid;
+    outline: none;
+    width: 275px;
+}
+
+button {
+    font-family: "Inter", serif; 
+}
+
+
+
+
